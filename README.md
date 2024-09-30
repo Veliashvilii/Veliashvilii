@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Veliashvilii/Veliashvilii/blob/main/img/MetehanBelliBanner.png)
+![MasterHead](https://github.com/Veliashvilii/Veliashvilii/blob/master/img/MetehanBelliBanner.png)
 ![](https://komarev.com/ghpvc/?username=Veliashvilii&color=blue)
 <div align="center">
  <a href="https://github.com/Veliashvilii">
@@ -6,7 +6,7 @@
  </a>
 </div>
 
-<img src="https://github.com/Veliashvilii/Veliashvilii/blob/main/img/middle.gif" alt="Coding" width=200 height=200 align="right">
+<img src="https://github.com/Veliashvilii/Veliashvilii/blob/master/img/middle.gif" alt="Coding" width=200 height=200 align="right">
 
 
 <h3 align="left">&nbsp; A passionate iOS Developer from Turkey</h3>
